@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechMarkup", "SpeechMarkup\SpeechMarkup.csproj", "{5A75EAB3-8099-4B0B-9186-3E6D2518C04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechMarkup.Tests", "SpeechMarkup.Tests\SpeechMarkup.Tests.csproj", "{AD1B01CF-E05A-4AFB-AA7D-547A00E3A17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A75EAB3-8099-4B0B-9186-3E6D2518C04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A75EAB3-8099-4B0B-9186-3E6D2518C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A75EAB3-8099-4B0B-9186-3E6D2518C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A75EAB3-8099-4B0B-9186-3E6D2518C04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1B01CF-E05A-4AFB-AA7D-547A00E3A17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1B01CF-E05A-4AFB-AA7D-547A00E3A17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1B01CF-E05A-4AFB-AA7D-547A00E3A17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1B01CF-E05A-4AFB-AA7D-547A00E3A17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
